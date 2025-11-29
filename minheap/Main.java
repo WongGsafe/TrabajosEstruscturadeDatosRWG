@@ -1,4 +1,4 @@
-package implementacion2;
+package minheap;
 
 import java.util.Scanner;
 public class Main {
