@@ -1,4 +1,4 @@
-package implementacion2;
+package minheap;
 
 public class MinH {
 
